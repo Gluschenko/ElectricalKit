@@ -1,0 +1,6 @@
+C:\Users\j\documents\visual studio 2013\Projects\ElectricalEngine\ElectricalEngine\obj\Debug\ElectricalEngine.csprojResolveAssemblyReference.cache
+C:\Users\j\documents\visual studio 2013\Projects\ElectricalEngine\ElectricalEngine\bin\Debug\ElectricalKit.exe.config
+C:\Users\j\documents\visual studio 2013\Projects\ElectricalEngine\ElectricalEngine\bin\Debug\ElectricalKit.exe
+C:\Users\j\documents\visual studio 2013\Projects\ElectricalEngine\ElectricalEngine\bin\Debug\ElectricalKit.pdb
+C:\Users\j\documents\visual studio 2013\Projects\ElectricalEngine\ElectricalEngine\obj\Debug\ElectricalKit.exe
+C:\Users\j\documents\visual studio 2013\Projects\ElectricalEngine\ElectricalEngine\obj\Debug\ElectricalKit.pdb
