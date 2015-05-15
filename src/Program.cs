@@ -301,11 +301,11 @@ namespace ElectricalKit
                 //
                 Physics.CalculateAll();//Физические расчеты
                 //
-                CreateOutput();//Заполнение понели вывода
+                CreateOutput();//Заполнение панели вывода
 
                 ///
 
-                LastSchemeMarkup = SchemeMarkup; //Для последующего сравнения
+                LastSchemeMarkup = SchemeMarkup; //Для последующего сравнения (отслеживание отличий)
             }
             catch (Exception e)
             {
