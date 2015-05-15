@@ -1,3 +1,11 @@
+﻿/*
+ * This is the source code of ElectricalKit (Anvil.Net SDK).
+ * It is licensed under MIT License.
+ * You should have received a copy of the license in this archive (see LICENSE).
+ *
+ * Copyright Alexander Gluschenko, 2014-2015.
+ */
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
