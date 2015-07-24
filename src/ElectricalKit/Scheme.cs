@@ -225,8 +225,8 @@ namespace ElectricalKit
 
                 //
 
-                if (i == 0) FirstWPos = TopPos;//Запомянаем сдвиг первой точки
-                if (TruePointsCount == Pairs + i + 1)BottomPos = FirstWPos;//Присваеваем сдвиг к последней точке
+                if (i == 0) FirstWPos = TopPos;//Запоминаем сдвиг первой точки
+                if (TruePointsCount == Pairs + i + 1)BottomPos = FirstWPos;//Присваиваем сдвиг к последней точке
 
                 //
 
